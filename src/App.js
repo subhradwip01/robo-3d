@@ -1,4 +1,3 @@
-import "./App.css";
 import { ScrollControls, Scroll, SpotLight, Environment, Sparkles, Backdrop, Float, Ring } from "@react-three/drei";
 import { useEffect, useRef } from "react";
 import { useFrame } from "@react-three/fiber";
